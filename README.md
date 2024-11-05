@@ -1,2 +1,2 @@
-# Custom-Template
-### My own custom project template  with pre added library and project structure.
+
+### Practicing Ktor Client in Jetpack Compose
